@@ -1,4 +1,4 @@
-# DevOps pipline :
+# DevOps pipline:
 
 # Project Made by :
   - Bacem Ben Daly
@@ -11,6 +11,6 @@
 
 ![alt text](screenshots/devops-pic.JPG)
 
-# Picture before making some changes :
+# Picture after push :
 
 ![alt text](screenshots/devops-pic2.JPG)
